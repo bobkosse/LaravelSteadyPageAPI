@@ -3,7 +3,6 @@
 declare(strict_types=1);
 
 return [
-
-    'placeholder' => 'default',
-
+    'STEADY_URL' => 'https://steadyhq.com',
+    'STEADY_KEY' => 'configure_your_secret',
 ];
